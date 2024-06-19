@@ -1,0 +1,27 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+env/
+venv/
+ENV/
+.env
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Configuration and secrets
+config/credentials.json
+token.json
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore VSCode settings
+.vscode/
